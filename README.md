@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 <img align="left" alt="Tomcat" width="40px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original-wordmark.svg" style="padding:10px;" />
 <img align="left" alt="Raspberry Pi" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" />
  <img align="left" alt="R Studio" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" />
-<img width="750px" align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=HrutujaP&show_icons=true&count_private=true&theme=radical&hide_border=false" />
+<img width="750px" align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=HrutujaP&show_icons=true&theme=radical" />
 
 <!-- Blah -->
 
